@@ -1,0 +1,6 @@
+{
+  "name": "Simple Inventory Manager - Unit IV Spring Boot Tutorial",
+  "description": "Tutorial 4 for Full Stack Web Development: A complete Unit-IV Spring Boot application demonstrating Three-Tier Architecture, Domain Modelling, In-Memory Data, REST API, Auto-Configuration, and Unit Testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
